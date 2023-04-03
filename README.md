@@ -35,8 +35,12 @@
 
 ---
 
-[Kelompok 8: Database Rating Film](https://sofiaoct.shinyapps.io/ratingfilm/)
-<iframe src="https://sofiaoct.shinyapps.io/ratingfilm/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
+[Kelompok 8: Database Rating Film](https://sofiaoct.shinyapps.io/movierating/)
+<iframe src="https://sofiaoct.shinyapps.io/movierating/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
+
+---
+
+**Credit to**: Departemen of Statistics, Statistics and Data Science, IPB University
 
 
 
