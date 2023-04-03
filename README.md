@@ -1,16 +1,46 @@
 # Galeri Aplikasi Shiny Database STA1562 Manajemen Data Statistika 2023 
 
-1. https://m70mrd-teguh-prasetyo.shinyapps.io/TugasKelompok1MDS_v2/
+[Kelompok 1: Sistem Informasi Pemesanan Tiket Hotel](https://m70mrd-teguh-prasetyo.shinyapps.io/TugasKelompok1MDS_v2/)
+<iframe src="https://m70mrd-teguh-prasetyo.shinyapps.io/TugasKelompok1MDS_v2/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
 
-   [Kelompok 1](https://m70mrd-teguh-prasetyo.shinyapps.io/TugasKelompok1MDS_v2/)
+---
 
-2. https://rekaagustiaastari.shinyapps.io/MySkincare/
-3. https://merryanty.shinyapps.io/Ruangan-IPB/
-4. https://hasanahstat.shinyapps.io/SepakBola/
-5. https://nur-khamidah.shinyapps.io/covid_database_project/
-6. https://diaztrihazam.shinyapps.io/profil-responden/
-7. https://akmarinak98.shinyapps.io/database_publikasi_statistika/
-8. https://sofiaoct.shinyapps.io/ratingfilm/
+[Kelompok 2: My Skincare](https://rekaagustiaastari.shinyapps.io/MySkincare/)
+<iframe src="https://rekaagustiaastari.shinyapps.io/MySkincare/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
+
+---
+
+[Kelompok 3: Database Jadwal Kuliah S2 IPB](https://merryanty.shinyapps.io/Ruangan-IPB/)
+<iframe src="https://merryanty.shinyapps.io/Ruangan-IPB/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
+
+---
+
+[Kelompok 4: English Premiere League](https://hasanahstat.shinyapps.io/SepakBola/)
+<iframe src="https://hasanahstat.shinyapps.io/SepakBola/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
+
+---
+
+[Kelompok 5: Database Covid'19](https://nur-khamidah.shinyapps.io/covid_database_project/)
+<iframe src="https://nur-khamidah.shinyapps.io/covid_database_project/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
+
+---
+
+[Kelompok 6: Profile Responden Survey dan Aktivitasnya](https://diaztrihazam.shinyapps.io/profil-responden/)
+<iframe src="https://diaztrihazam.shinyapps.io/profil-responden/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
+
+---
+
+[Kelompok 7: Database Jurnal Statistika](https://akmarinak98.shinyapps.io/database_publikasi_statistika/)
+<iframe src="https://akmarinak98.shinyapps.io/database_publikasi_statistika/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
+
+---
+
+[Kelompok 8: Database Rating Film](https://sofiaoct.shinyapps.io/ratingfilm/)
+<iframe src="https://sofiaoct.shinyapps.io/ratingfilm/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
 
 
-<iframe src="https://m70mrd-teguh-prasetyo.shinyapps.io/TugasKelompok1MDS_v2/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+
+
+
+
+
