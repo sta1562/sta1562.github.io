@@ -1,4 +1,4 @@
-# Galeri Aplikasi Shiny Database STA1562 Manajemen Data Statistika 2023 
+# Galeri Aplikasi Shiny Database  
 
 [Kelompok 1: Sistem Informasi Pemesanan Tiket Hotel](https://m70mrd-teguh-prasetyo.shinyapps.io/TugasKelompok1MDS_v2/)
 <iframe src="https://m70mrd-teguh-prasetyo.shinyapps.io/TugasKelompok1MDS_v2/" style="border:1px #000 dashed;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="800px" allowfullscreen></iframe>
@@ -40,7 +40,7 @@
 
 ---
 
-**Credit to**: Departemen of Statistics, Statistics and Data Science, IPB University
+**Credit to**: STA1562 Manajemen Data Statistika 2023, Departemen of Statistics, Statistics and Data Science, IPB University
 
 
 
